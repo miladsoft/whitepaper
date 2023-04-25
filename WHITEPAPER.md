@@ -8,11 +8,15 @@
 
 ### **Problem statement:**
 
-This section should clearly identify the problem(s) that the blockchain system and cryptocurrency are trying to solve. Some additional questions to consider include:
+**T**he following are some of the deficiencies of the existing blockchains:
 
-* What are the pain points of the existing systems or solutions?
-* Who is impacted by the problem(s) the project is addressing?
-* What are the potential consequences of not addressing these problems?
+I. Limited flexibility: Traditional blockchains often come with a predefined set of consensus rules and algorithms, limiting the ability to customize or to innovate according to specific needs. Human mind and imagination go beyond the stars and the moon; therefore we believe the sky should be the limit for a blockchain user by providing an opportunity for extraordinary flexibility through the system. 
+
+II. Interoperability challenges: Most existing blockchains operate independently, making it difficult for different platforms to communicate and to interact with each other.Our solutions will remedy these challenges through a set of rules that enhance the interoperational capabilities. 
+
+III. Scalability issues: As the number of transactions and users grow, existing blockchains may struggle to handle the increased load, leading to congestion and slow transaction times. Our solution will provide an opportunity to decongest and to speed up the transaction processing times. 
+
+IV. Energy consumption: Some consensus mechanisms, such as Proof of Work (PoW), consume significant amounts of energy, raising environmental concerns and affecting long-term sustainability. With rising costs of energy and the undeniable importance of sustainability, we have tailored a solution that would mitigate the aforementioned problems.
 
 ### **Solution:**
 
