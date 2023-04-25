@@ -15,6 +15,16 @@
 * III. Scalability issues: As the number of transactions and users grow, existing blockchains may struggle to handle the increased load, leading to congestion and slow transaction times. Our solution will provide an opportunity to decongest and to speed up the transaction processing times. 
 * IV. Energy consumption: Some consensus mechanisms, such as Proof of Work (PoW), consume significant amounts of energy, raising environmental concerns and affecting long-term sustainability. With rising costs of energy and the undeniable importance of sustainability, we have tailored a solution that would mitigate the aforementioned problems.
 
+The aforementioned problems have impacts on the following:
+* I. Stakeholders, including blockchain developers, who may struggle to create innovative solutions due to existing limitations.
+* II. Businesses and organizations looking to adopt blockchain technology but are discouraged by scalability, interoperability, and environmental concerns.
+* III. End users, who may face slow transaction times, high fees, or limited access to different blockchain platforms.
+
+ Some of the potential consequences of not addressing the aforementioned problems are enumerated below: 
+* I. Reduced adoption: The limitations of existing blockchains could slow down or hinder the widespread adoption of blockchain technology, preventing it from reaching its full potential.
+* II. Inefficient solutions: If developers are unable to address these pain points, the blockchain ecosystem may become fragmented and inefficient, with different platforms unable to interact and to collaborate effectively.
+* III. Environmental impact: High energy consumption from consensus mechanisms like PoW could lead to increased carbon emissions and long-term environmental damage.
+
 ### **Solution:**
 
 This section should explain how the blockchain system and cryptocurrency address the identified problems. Some additional questions to consider include:
