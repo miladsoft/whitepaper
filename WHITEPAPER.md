@@ -1,7 +1,12 @@
-## **BlockCore White Paper**
-Updated: April 26, 2023 
 
-Version: Draft 1
+<p align="center">
+  <p align="center">
+    <img src="https://avatars3.githubusercontent.com/u/53176002?s=200&v=4" height="100" alt="Blockcore" />
+  </p>
+  <h3 align="center">
+   Blockcore White Paper
+  </h3>
+</p>
 
 
 *   [Introduction](#introduction)
@@ -104,3 +109,8 @@ This section should include a list of references used in creating the white pape
 * What academic papers or research was used in the creation of the white paper?
 * What other sources of information were consulted?
 * Where can readers find additional information about the topics discussed in the white paper?
+
+
+Updated: April 26, 2023 
+
+Version: Draft 1
