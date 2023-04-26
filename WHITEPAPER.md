@@ -13,7 +13,6 @@
 *   [Architecture](#architecture)
 *   [Scalability](#scalability)
 *   [Technical details](#technical-details)
-*   [Token economics](#token-economics)
 *   [Roadmap](#roadmap)
 *   [Team](#team)
 *   [Legal and regulatory considerations](#legal-and-regulatory-considerations)
@@ -23,7 +22,7 @@
 
 
 
-### **Introduction:**
+# **Introduction:**
 
 **W**elcome to Blockcore's white paper for its leading edge and open-source blockchain project. The purpose of this project is to create a decentralized anti-fraudulent online environment, where people feel safe enough to interact with technology to make investments by providing a fully integrated platform for building custom blockchains, with an emphasis on open and public blockchains. Built on the .NET and written entirely in C#. Blockcore is based on the NBitcoin and Stratis projects.
 
@@ -36,7 +35,7 @@ The Blockcore’s platform offers a decentralized web node and decentralized ide
 Blockcore's guiding principles emphasize collaboration, contribution to open-source software, making it easier for everyone to contribute to the ecosystem, and encouraging projects to adopt Blockcore technology to strengthen the platform. We believe that our platform, Blockcore, can drive innovation and foster a collaborative environment for blockchain development. Committed to staying at the forefront of Bitcoin and blockchain technology through continuous development and improvements, let us endeavor together for what we can accomplish through Blockcore and blockchain technology.
 
 
-### **Architecture:**
+# **Architecture:**
 
 Blockcore is an eco-system comprised of different parts, with the foundation being its blockchain node software.
 
@@ -55,7 +54,7 @@ Additionally, Blockcore offers a server software called Blockcore Vault, which a
 
 Blockcore also has cross-system documentation for all of its software, in combination with tooling for generating new blockchains and more. It also runs a community provided and supported server infrastructure of blockchain nodes, tipbots, indexers, explorers, and more.
 
-### **Scalability:**
+# **Scalability:**
 Blockcore, a novel approach to addressing the scalability issue in cryptocurrencies, offers multiple solutions to the limitations of traditional blockchain systems like Bitcoin. These solutions work together to mitigate the problems associated with transaction volumes, block sizes, and centralization of mining power, making the platform more attractive for businesses and organizations. Here's a summary of the key features that address these issues:
 
 1. Configurable private blockchains: Blockcore allows organizations to create and manage their own private blockchains, tailoring block sizes to suit their specific needs and available resources. This customization enables businesses to optimize their blockchain's performance without being constrained by a single, global blockchain.
@@ -69,9 +68,7 @@ Blockcore, a novel approach to addressing the scalability issue in cryptocurrenc
 In summary, Blockcore addresses the scalability and centralization issues faced by traditional blockchain systems like Bitcoin through the use of configurable private blockchains, a host chain with dedicated ledgers, a PoS consensus mechanism, and anti-bloat measures. These features make it an attractive option for businesses and organizations seeking a more efficient, secure, and adaptable blockchain solution.
 
 
-
-
-### **Technical details:**
+# **Technical details:**
 
 This section should provide an overview of the technical aspects of the blockchain system and cryptocurrency. Some additional questions to consider include:
 
@@ -81,16 +78,8 @@ This section should provide an overview of the technical aspects of the blockcha
 * What cryptographic algorithms are used?
 * How are smart contracts integrated into the system?
 
-### **Token economics:**
 
-This section should explain the token economics of the cryptocurrency. Some additional questions to consider include:
-
-* What is the total supply of the token and how is it distributed?
-* What is the role of the token within the blockchain system?
-* How is the token used in transactions and what are the fees associated with using the token?
-* What is the token governance structure and how are decisions made about the token?
-
-### **Roadmap:**
+# **Roadmap:**
 
 This section should outline the development roadmap of the blockchain system and cryptocurrency. Some additional questions to consider include:
 
@@ -99,7 +88,7 @@ This section should outline the development roadmap of the blockchain system and
 * What is the timeline for achieving each milestone?
 * What resources are needed to achieve these milestones?
 
-### **Team:**
+# **Team:**
 
 This section should introduce the team behind the blockchain system and cryptocurrency. Some additional questions to consider include:
 
@@ -107,7 +96,7 @@ This section should introduce the team behind the blockchain system and cryptocu
 * How did the team come together to launch this project?
 * What is the team's vision for the project?
 
-### **Legal and regulatory considerations:**
+# **Legal and regulatory considerations:**
 
 This section should discuss the legal and regulatory considerations associated with launching the blockchain system and cryptocurrency. Some additional questions to consider include:
 
@@ -115,7 +104,7 @@ This section should discuss the legal and regulatory considerations associated w
 * What regulations apply to the project and how will the project ensure compliance?
 * What risks are associated with the legal and regulatory landscape?
 
-### **Release Process:**
+# **Release Process:**
 
 This process describes the steps that is needed to go through to release new and updated packages and software.
 
@@ -214,7 +203,7 @@ It is the responsibility of individual blockchains to maintain their own configu
 The configurations are published on the website: [https://chains.blockcore.net/](https://chains.blockcore.net/)
 
 
-### **Conclusion:**
+# **Conclusion:**
 
 This section should summarize the key points of the white paper and encourage readers to participate in the project. Some additional questions to consider include:
 
@@ -222,7 +211,7 @@ This section should summarize the key points of the white paper and encourage re
 * What are the potential benefits of participating in the project?
 * What are the next steps for interested parties?
 
-### **References:**
+# **References:**
 
 This section should include a list of references used in creating the white paper. Some additional questions to consider include:
 
@@ -231,6 +220,6 @@ This section should include a list of references used in creating the white pape
 * Where can readers find additional information about the topics discussed in the white paper?
 
 
-Updated: April 26, 2023 
+Updated: April 27, 2023 
 
 Version: Draft 1
