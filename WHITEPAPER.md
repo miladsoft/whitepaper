@@ -19,28 +19,19 @@ Version: Draft 1
 
 ### **Introduction:**
 
-  **W**elcome to Blockcore's white paper for its innovative blockchain project. The purpose of this project is to revolutionize the way people interact with technology by providing a fully integrated platform for building custom blockchains. Blockcore’s team of experienced blockchain developers and engineers created this open-source initiative, called Blockcore, with the mission of empowering users to build unique blockchain solutions using a wide range of software tools. Blockcore’s vision is based on the principles of Web5, which advocates for a more decentralized and user-centric internet.
+This section should provide an overview of the blockchain system and cryptocurrency and introduce the purpose of the white paper. Some additional questions to consider include:
 
-  Blockcore’s platform includes blockchain nodes, explorers, indexers, and wallets for desktop, mobile, and web platforms. It also offers a decentralized web node, and decentralized identifiers, all designed to enhance the capabilities of our platform and make it accessible to a wide range of users. We believe that our platform, Blockcore, can drive innovation and foster a collaborative environment for blockchain development. Let us endeavor together for what we can accomplish through Blockcore and blockchain technology.
+* What inspired the development of this blockchain system and cryptocurrency?
+* What problem(s) is the project trying to solve?
+* What is the mission or vision of the project?
 
 ### **Problem statement:**
 
-**T**he following are some of the deficiencies of the existing blockchains:
+This section should clearly identify the problem(s) that the blockchain system and cryptocurrency are trying to solve. Some additional questions to consider include:
 
-* I. Limited flexibility: Traditional blockchains often come with a predefined set of consensus rules and algorithms, limiting the ability to customize or to innovate according to specific needs. Human mind and imagination go beyond the stars and the moon; therefore we believe the sky should be the limit for a blockchain user by providing an opportunity for extraordinary flexibility through the system. 
-* II. Interoperability challenges: Most existing blockchains operate independently, making it difficult for different platforms to communicate and to interact with each other.Our solutions will remedy these challenges through a set of rules that enhance the interoperational capabilities. 
-* III. Scalability issues: As the number of transactions and users grow, existing blockchains may struggle to handle the increased load, leading to congestion and slow transaction times. Our solution will provide an opportunity to decongest and to speed up the transaction processing times. 
-* IV. Energy consumption: Some consensus mechanisms, such as Proof of Work (PoW), consume significant amounts of energy, raising environmental concerns and affecting long-term sustainability. With rising costs of energy and the undeniable importance of sustainability, we have tailored a solution that would mitigate the aforementioned problems.
-
-The aforementioned problems have impacts on the following:
-* I. Stakeholders, including blockchain developers, who may struggle to create innovative solutions due to existing limitations.
-* II. Businesses and organizations looking to adopt blockchain technology but are discouraged by scalability, interoperability, and environmental concerns.
-* III. End users, who may face slow transaction times, high fees, or limited access to different blockchain platforms.
-
- Some of the potential consequences of not addressing the aforementioned problems are enumerated below: 
-* I. Reduced adoption: The limitations of existing blockchains could slow down or hinder the widespread adoption of blockchain technology, preventing it from reaching its full potential.
-* II. Inefficient solutions: If developers are unable to address these pain points, the blockchain ecosystem may become fragmented and inefficient, with different platforms unable to interact and to collaborate effectively.
-* III. Environmental impact: High energy consumption from consensus mechanisms like PoW could lead to increased carbon emissions and long-term environmental damage.
+* What are the pain points of the existing systems or solutions?
+* Who is impacted by the problem(s) the project is addressing?
+* What are the potential consequences of not addressing these problems?
 
 ### **Solution:**
 
