@@ -1,6 +1,9 @@
 ## **BlockCore White Paper**
-Updated: April 26, 2023
+Updated: April 26, 2023 
+
 Version: Draft 1
+
+
 ### **Introduction:**
 
   **W**elcome to Blockcore's white paper for its innovative blockchain project. The purpose of this project is to revolutionize the way people interact with technology by providing a fully integrated platform for building custom blockchains. Blockcore’s team of experienced blockchain developers and engineers created this open-source initiative, called Blockcore, with the mission of empowering users to build unique blockchain solutions using a wide range of software tools. Blockcore’s vision is based on the principles of Web5, which advocates for a more decentralized and user-centric internet.
