@@ -10,8 +10,7 @@
 
 
 *   [Introduction](#introduction)
-*   [Problem statement](#problem-statement)
-*   [Solution](#solution)
+*   [Architecture](#architecture)
 *   [Scalability](#scalability)
 *   [Technical details](#technical-details)
 *   [Token economics](#token-economics)
@@ -36,21 +35,24 @@ The Blockcore’s platform offers a decentralized web node and decentralized ide
 Blockcore's guiding principles emphasize collaboration, contribution to open-source software, making it easier for everyone to contribute to the ecosystem, and encouraging projects to adopt Blockcore technology to strengthen the platform. We believe that our platform, Blockcore, can drive innovation and foster a collaborative environment for blockchain development. Committed to staying at the forefront of Bitcoin and blockchain technology through continuous development and improvements, let us endeavor together for what we can accomplish through Blockcore and blockchain technology.
 
 
-### **Problem statement:**
+### **Architecture:**
 
-This section should clearly identify the problem(s) that the blockchain system and cryptocurrency are trying to solve. Some additional questions to consider include:
+Blockcore is an eco-system comprised of different parts, with the foundation being its blockchain node software.
 
-* What are the pain points of the existing systems or solutions?
-* Who is impacted by the problem(s) the project is addressing?
-* What are the potential consequences of not addressing these problems?
+![image](https://user-images.githubusercontent.com/6504337/234680656-7bbd9b24-c16a-4035-bca4-6c8c0c826637.png)
 
-### **Solution:**
 
-This section should explain how the blockchain system and cryptocurrency address the identified problems. Some additional questions to consider include:
+This software can be used to run a UTXO-based blockchain, similar to Bitcoin, with added support for Proof-of-Stake, and it also supports Proof-of-Work blockchains. Each node has the full data of the blockchain, which normally does not contain much additional data other than limited OP_RETURN data, and nodes should not be exposed to public consumption.
 
-* What specific features and benefits does the system provide that address the identified problems?
-* How does the system differ from existing solutions?
-* What is the competitive advantage of this blockchain system and cryptocurrency?
+The indexer is responsible for building a queryable database of the history of the blockchain, for specific addresses, transactions, and blocks. On top of the indexer, Blockcore has built various user interface surfaces such as the explorer, which allows insight into the blockchain, including rich lists, network nodes, known public addresses, and more.
+
+Blockcore also offers different software options for users, including a non-custodial wallet that runs in the web browser and is distributed on add-ons stores for easy discovery, installation, and automatic updates. This extension relies on the indexer to access blockchain data. The Blockcore Hub is a full-node wallet, which is the optimal wallet for advanced users performing Proof-of-Stake operations, as it downloads the entire blockchain for improved privacy.
+
+Blockcore also offers a tipping-bot software called Blockcore Tipbot, which allows users to easily give and receive tips in the form of coins and tokens. The tipbot is a custodial service, meaning that the keys do not belong to the individual users, so it is only recommended for smaller amounts. Users can withdraw from their tipbot balance into Blockcore Hub or Blockcore Extension wallets.
+
+Additionally, Blockcore offers a server software called Blockcore Vault, which allows for distributed data storage and sharing. The software implements open standards for decentralized identity (DID) and can store a user's verifiable credentials, including private direct messages, NFTs, receipts from purchases, favorite music, videos, and more. The software supports both public (unencrypted) and encrypted (private) information to be hosted.
+
+Blockcore also has cross-system documentation for all of its software, in combination with tooling for generating new blockchains and more. It also runs a community provided and supported server infrastructure of blockchain nodes, tipbots, indexers, explorers, and more.
 
 ### **Scalability:**
 Blockcore, a novel approach to addressing the scalability issue in cryptocurrencies, offers multiple solutions to the limitations of traditional blockchain systems like Bitcoin. These solutions work together to mitigate the problems associated with transaction volumes, block sizes, and centralization of mining power, making the platform more attractive for businesses and organizations. Here's a summary of the key features that address these issues:
