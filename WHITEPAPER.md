@@ -19,10 +19,12 @@ Version: Draft 1
 
 ### **Introduction:**
 
+<p align="justify">
 **W**elcome to Blockcore's white paper for its leading edge and open-source blockchain project. The purpose of this project is to create a decentralized anti-fraudulent online environment, where people feel safe enough to interact with technology to make investments by providing a fully integrated platform for building custom blockchains, with an emphasis on open and public blockchains. Built on the .NET and written entirely in C#. Blockcore is based on the NBitcoin and Stratis projects.
-
+</p>
+<p align="justify">
 Blockcore envisions a world where "Decentralize Everything" is the guiding principle. By providing the building blocks for modern decentralized societies, our free and open-source software can be adopted to make existing centralized systems permanently unnecessary. In the context of blockchain and Blockcore, decentralization refers to distributing power, authority, or control away from central locations or organizations, enabling individuals and communities to have more control over their data, assets, and decision-making.
-
+</p>
 Blockcore’s team of experienced blockchain developers and engineers created this initiative with the mission of empowering users to build unique blockchain solutions using a wide range of software tools, including Block Explorer, Block Indexing, Block Analytics, Wallets, API Wallet Service, Developer Tooling, and Documentation. Blockcore's vision is based on the principles of decentralizing everything, such as Web5, which advocates for a more decentralized and user-centric internet.
 
 The platform offers a decentralized web node and decentralized identifiers, all designed to enhance the capabilities of the platform and make it accessible to a wide range of users. Blockcore's objectives include continuing the development of the C# Stratis full node, maintaining the C# Bitcoin full node, supporting projects and teams using the underlying technology, extending the technology by building developer and user tools, providing a forum for developers and teams to collaborate and improve the technology, and building relationships with potential sponsors and partners to boost the pace of development.
