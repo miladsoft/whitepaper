@@ -12,6 +12,7 @@
 *   [Introduction](#introduction)
 *   [Problem statement](#problem-statement)
 *   [Solution](#solution)
+*   [Scalability](#scalability)
 *   [Technical details](#technical-details)
 *   [Token economics](#token-economics)
 *   [Roadmap](#roadmap)
@@ -50,6 +51,19 @@ This section should explain how the blockchain system and cryptocurrency address
 * What specific features and benefits does the system provide that address the identified problems?
 * How does the system differ from existing solutions?
 * What is the competitive advantage of this blockchain system and cryptocurrency?
+
+### **Scalability:**
+Blockcore, a novel approach to addressing the scalability issue in cryptocurrencies, offers multiple solutions to the limitations of traditional blockchain systems like Bitcoin. These solutions work together to mitigate the problems associated with transaction volumes, block sizes, and centralization of mining power, making the platform more attractive for businesses and organizations. Here's a summary of the key features that address these issues:
+
+1. Configurable private blockchains: Blockcore allows organizations to create and manage their own private blockchains, tailoring block sizes to suit their specific needs and available resources. This customization enables businesses to optimize their blockchain's performance without being constrained by a single, global blockchain.
+
+2. Host chain and dedicated ledgers: Blockcore operates on a host chain from which businesses can deploy their own ledgers based on their specific requirements. This structure provides the versatility of an extensive 2.0 platform combined with the full control of a private chain, which is secured by the host blockchain but managed by the owning organization.
+
+3. Proof-of-Stake consensus: Blockcore employs a Proof-of-Stake (PoS) consensus mechanism, aligning the interests of end-users (businesses) and network security providers (full nodes). This allows businesses to run their own nodes without the overheads associated with specialized mining hardware, reducing the barriers to entry and preventing centralization of mining power.
+
+4. Anti-bloat measures: To ensure the main chain remains lightweight and efficient, Blockcore implements a series of measures to combat bloat. This ensures that the host chain's primary purpose is to secure child chains, keeping the overall system streamlined and manageable.
+
+In summary, Blockcore addresses the scalability and centralization issues faced by traditional blockchain systems like Bitcoin through the use of configurable private blockchains, a host chain with dedicated ledgers, a PoS consensus mechanism, and anti-bloat measures. These features make it an attractive option for businesses and organizations seeking a more efficient, secure, and adaptable blockchain solution.
 
 ### **Technical details:**
 
