@@ -401,6 +401,8 @@ https://eprint.iacr.org/2018/248.pdf
 http://tselab.stanford.edu/downloads/PoS_LC_SBC2020.pdf  
 
 
-Updated: April 27, 2023 
+#  **Updated:** 
+April 27, 2023 
 
-Version: Draft 1
+#  **Version:** 
+Draft 1
