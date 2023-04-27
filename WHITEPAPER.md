@@ -78,7 +78,7 @@ In the PoS component, validators are chosen based on the amount of tokens they h
 
 Blockcore's blockchain architecture is designed to be modular and flexible, allowing developers to customize the consensus mechanism to meet the specific needs of their use case. The platform provides a range of APIs and SDKs that enable developers to easily build and deploy blockchain applications. With its hybrid PoW/PoS consensus mechanism, Blockcore provides a secure and scalable network for developers to build blockchain applications while maintaining an alternative C# Bitcoin implementation.
 
-### What is POS vs POW
+### What is POW and POS
 
 Proof of Work (PoW) and Proof of Stake (PoS) are two consensus algorithms used in blockchain networks to validate transactions and create new blocks.
 
