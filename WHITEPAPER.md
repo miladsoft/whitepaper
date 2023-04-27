@@ -414,11 +414,11 @@ The configurations are published on the website: [https://chains.blockcore.net/]
 
 # **Conclusion:**
 
-This section should summarize the key points of the white paper and encourage readers to participate in the project. Some additional questions to consider include:
+In conclusion, this whitepaper provides a comprehensive overview of the Blockcore blockchain platform, which utilizes both proof-of-work (PoW) and proof-of-stake (PoS) consensus algorithms. The Blockcore platform has been designed with the goal of providing a secure, scalable, and decentralized blockchain infrastructure that can support a wide range of decentralized applications.
 
-* What is the call-to-action for readers?
-* What are the potential benefits of participating in the project?
-* What are the next steps for interested parties?
+One of the core principles of the Blockcore platform is the commitment to open-source development, which is reflected in the platform's architecture, codebase, and community-driven governance model. By leveraging the power of open-source development, the Blockcore community is able to collaborate and innovate more effectively, resulting in a more robust and resilient blockchain ecosystem.
+
+Moving forward, the Blockcore community is dedicated to continuing to improve and enhance the platform through ongoing research, development, and community engagement. We believe that by working together and leveraging the collective expertise of the community, we can build a truly decentralized and resilient blockchain infrastructure that will enable the next generation of decentralized applications and services.
 
 # **References:**
 
