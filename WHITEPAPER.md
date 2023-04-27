@@ -264,11 +264,13 @@ This section should outline the development roadmap of the blockchain system and
 
 # **Team:**
 
-This section should introduce the team behind the blockchain system and cryptocurrency. Some additional questions to consider include:
+Blockcore is an open-source project started by a talented group of blockchain developers and engineers, including Dan Gershony, Sondre Bjellås, David Gershony, Milad Raeisi, Adam Elgressy, Kyllian Le Borgne Roperch, Emil, and others. Each team member brings unique experience and expertise in blockchain development, software engineering, project management, and business strategy to the project.
 
-* What is the background and experience of each team member?
-* How did the team come together to launch this project?
-* What is the team's vision for the project?
+Dan Gershony is a seasoned entrepreneur with extensive experience in blockchain technology, DApps, and DeFi. Sondre Bjellås is a software engineer and blockchain developer with a passion for open-source projects, and he has successfully launched the City Chain blockchain. David Gershony is a software engineer and blockchain developer with expertise in developing blockchain-based solutions for various industries. Milad Raeisi is a blockchain expert with experience in digital marketing and business development. Adam Elgressy brings vast knowledge in product management and software engineering to the team, and Kyllian Le Borgne Roperch has experience in development and cryptocurrencies. Emil specializes in embedded systems and mission-critical real-time systems, and he has extensive experience with enterprise systems, protocols, databases, and distributed systems.
+
+The team came together with the shared vision of creating a fully integrated platform for building custom blockchains that can support a wide range of use cases. They recognized the need for a comprehensive and user-friendly platform that can support the development of blockchain-based solutions for businesses and developers.
+
+Blockcore's vision is to become the leading platform for blockchain development, providing a reliable and scalable infrastructure that enables businesses and developers to build and deploy decentralized applications with ease. The team is committed to developing an open-source platform that is accessible, user-friendly, and customizable, with a focus on security, performance, and innovation. They aim to empower the blockchain community with the tools and resources they need to succeed in this exciting and rapidly evolving field. The team is always open to new community members, and they encourage developers and businesses to join them in building the future of blockchain technology.
 
 # **Legal and regulatory considerations:**
 
