@@ -8,5 +8,4 @@
   </h3>
 </p>
 
-
 **BlockCore** is a cutting-edge blockchain system and cryptocurrency designed to revolutionize the way transactions and data management are carried out in the digital world. Inspired by the limitations of existing blockchain systems, BlockCore aims to address the issues of scalability, security, and energy efficiency, while providing a more user-friendly and accessible platform for individuals and businesses alike. This white paper will introduce the core concepts behind BlockCore, discuss the problems it seeks to solve, and detail the innovative solutions it brings to the table.
