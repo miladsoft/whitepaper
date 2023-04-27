@@ -68,6 +68,16 @@ In summary, Blockcore addresses the scalability and centralization issues faced 
 
 # **Technical details:**
 
+Blockcore is a versatile and flexible platform for building Layer 1 consensus networks based on the Bitcoin protocol. The platform is built on the .NET and is entirely written in C#. It provides a wide range of tooling to support your blockchain, including a Block Explorer, Block Indexing, Block Analytics, Wallets, API Wallet Service, Atomic Swaps, Developer Tooling, and Documentation. Blockcore aims to maintain an alternative C# Bitcoin implementation based on the NBitcoin and Stratis projects.
+
+Blockcore is a blockchain platform that supports both Proof of Work (PoW) and Proof of Stake (PoS) consensus mechanisms. PoW is used to mine new blocks during the initial stage of the network, while PoS is used to validate new blocks and secure the network over time. In Blockcore, PoW and PoS are combined in a hybrid consensus mechanism, which enables the network to benefit from the advantages of both approaches. The PoW component of the consensus mechanism is used to create new blocks, while the PoS component is used to validate the new blocks and secure the network.
+
+In the PoW component, miners compete to solve a cryptographic puzzle to create new blocks. The difficulty of the puzzle is adjusted dynamically to maintain a consistent block time. The PoW component is designed to be ASIC-resistant, which ensures that miners with specialized hardware do not gain an unfair advantage over other miners.
+
+In the PoS component, validators are chosen based on the amount of tokens they hold and the duration of time they are willing to stake their tokens. Validators are responsible for validating new blocks and securing the network. In PoS, the more tokens a validator holds and stakes, the higher their chance of being chosen as a validator. Blockcore's PoS mechanism uses a variant of the delegated proof-of-stake (DPoS) approach, in which validators are elected by token holders through a voting process. The DPoS approach ensures that the network is controlled by a small group of trusted validators, which increases the network's security and scalability.
+
+Blockcore's blockchain architecture is designed to be modular and flexible, allowing developers to customize the consensus mechanism to meet the specific needs of their use case. The platform provides a range of APIs and SDKs that enable developers to easily build and deploy blockchain applications. With its hybrid PoW/PoS consensus mechanism, Blockcore provides a secure and scalable network for developers to build blockchain applications while maintaining an alternative C# Bitcoin implementation.
+
 ### What is POS vs POW
 
 Proof Of Stake is an alternative way to achieve consensus to Proof Of Work, the difference with POS is that block producers use ownership of coins as the right to produce blocks and participating nodes can verify such claims by validating cryptographic signatures and the chain history.
