@@ -3,7 +3,7 @@
     <img src="https://avatars3.githubusercontent.com/u/53176002?s=200&v=4" height="100" alt="Blockcore" />
   </p>
   <h3 align="center">
-   Blockcore White Paper
+  <a href="https://github.com/miladsoft/whitepaper/blob/main/WHITEPAPER.md"> Blockcore White Paper</a>
   </h3>
 </p>
 
