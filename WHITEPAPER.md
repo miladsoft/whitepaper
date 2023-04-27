@@ -216,7 +216,7 @@ Cold staking still requires to have a fully synced node running and connected to
 
 The full Coldstaking specification can be found [here](/Features/ColdStaking.md)
 
-## Weaknesses
+### Weaknesses
 
 #### NAS (nothing at stake)
 
