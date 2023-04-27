@@ -107,8 +107,7 @@ The number of confirmations a newly found coinstake needs to be buried under bef
 Those are headers that contain all the information that is needed to validate a coinstake.
 Proven headers are used as a `headers first` approach where the node will first download the headers of blocks and only if the header is valid will the node fetch the entire block for full validation.
 
-The full Proven Headers specification can be found here
-https://github.com/block-core/blockcore/blob/master/Documentation/Features/ProvenHeaders.md
+The full Proven Headers specification can be found [here](/Features/ProvenHeaders.md)
 
 #### Target Difficulty
 
@@ -215,8 +214,7 @@ When setting up coldstaking a user generates two wallets (two different private 
 
 Cold staking still requires to have a fully synced node running and connected to the network.
 
-The full Coldstaking specification can be found here
-https://github.com/block-core/blockcore/blob/master/Documentation/Features/ColdStaking.md
+The full Coldstaking specification can be found [here](/Features/ColdStaking.md)
 
 ## Weaknesses
 
