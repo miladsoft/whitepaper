@@ -274,11 +274,7 @@ Blockcore's vision is to become the leading platform for blockchain development,
 
 # **Legal and regulatory considerations:**
 
-This section should discuss the legal and regulatory considerations associated with launching the blockchain system and cryptocurrency. Some additional questions to consider include:
-
-* What is the legal status of cryptocurrency in the target jurisdiction(s)?
-* What regulations apply to the project and how will the project ensure compliance?
-* What risks are associated with the legal and regulatory landscape?
+Blockcore's official website at https://blockcore.net contains their current Terms and Conditions, which users must adhere to when accessing or using their products or services. As Blockcore continuously develops new software and features, the Terms and Conditions are subject to change. To stay up to date on any modifications, users can refer to the rules change log, which is also available on the website. The log provides a record of any updates or changes made to the Terms and Conditions, which helps users understand how these modifications may impact their use of Blockcore's products and services. It's important for users to review the rules change log periodically to ensure compliance with the current Terms and Conditions. By accessing or using Blockcore's products or services, users agree to be bound by the current Terms and Conditions as posted on their website.
 
 # **Release Process:**
 
