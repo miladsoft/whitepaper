@@ -68,7 +68,7 @@ In summary, Blockcore addresses the scalability and centralization issues faced 
 
 # **Technical details:**
 
-Blockcore is a versatile and flexible platform for building Layer 1 consensus networks based on the Bitcoin protocol. The platform is built on the .NET and is entirely written in C#. It provides a wide range of tooling to support your blockchain, including a Block Explorer, Block Indexing, Block Analytics, Wallets, API Wallet Service, Atomic Swaps, Developer Tooling, and Documentation. Blockcore aims to maintain an alternative C# Bitcoin implementation based on the NBitcoin and Stratis projects.
+Blockcore is a versatile and flexible platform for building Layer 1 consensus networks based on the Bitcoin protocol. The platform is built on .NET and is entirely written in C#. It provides a wide range of tooling to support your blockchain, including a Block Explorer, Block Indexing, Block Analytics, Wallets, API Wallet Service, Atomic Swaps, Developer Tooling, and Documentation. Blockcore aims to maintain an alternative C# Bitcoin implementation based on the NBitcoin and Stratis projects.
 
 Blockcore is a blockchain platform that supports both Proof of Work (PoW) and Proof of Stake (PoS) consensus mechanisms. PoW is used to mine new blocks during the initial stage of the network, while PoS is used to validate new blocks and secure the network over time. In Blockcore, PoW and PoS are combined in a hybrid consensus mechanism, which enables the network to benefit from the advantages of both approaches. The PoW component of the consensus mechanism is used to create new blocks, while the PoS component is used to validate the new blocks and secure the network.
 
