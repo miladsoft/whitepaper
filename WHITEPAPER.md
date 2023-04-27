@@ -265,12 +265,39 @@ POS is considered less decentralized than POW because:
 
 # **Roadmap:**
 
-This section should outline the development roadmap of the blockchain system and cryptocurrency. Some additional questions to consider include:
+Short-Term Goals:
+- Release of Blockcore with new features and improvements such as Schnorr signatures and Taproot integration.
+- Launch of Blockcore's mainnet with a hybrid PoW/PoS consensus mechanism.
+- Development of an improved Block Explorer with advanced search capabilities and real-time transaction data.
+- Integration of additional blockchains to the Blockcore platform to expand its interoperability.
+- Expansion of the Blockcore developer community through hackathons, bounties, and developer conferences.
 
-* What are the short-term and long-term goals of the project?
-* What milestones need to be achieved in order to reach these goals?
-* What is the timeline for achieving each milestone?
-* What resources are needed to achieve these milestones?
+Milestones:
+- Completion of Schnorr signatures and Taproot integration in Q3 2023.
+- Launch of Blockcore's mainnet in Q4 2023.
+- Release of the improved Block Explorer in Q1 2024.
+- Integration of additional blockchains to the Blockcore platform throughout 2024.
+- Expansion of the developer community through hackathons, bounties, and developer conferences throughout 2024.
+
+Long-Term Goals:
+- Development of a decentralized application (Dapp) ecosystem on the Blockcore platform.
+- Continued improvement of the hybrid PoW/PoS consensus mechanism for increased security and scalability.
+- Expansion of the Blockcore ecosystem through partnerships and collaborations with other blockchain projects.
+- Integration of privacy features into the Blockcore platform to enable anonymous transactions.
+- Support for hardware wallets and multi-signature wallets.
+
+Milestones:
+- Development of a Dapp ecosystem on the Blockcore platform throughout 2024.
+- Continued improvement of the hybrid PoW/PoS consensus mechanism throughout 2024 and beyond.
+- Expansion of the Blockcore ecosystem through partnerships and collaborations throughout 2024 and beyond.
+- Integration of privacy features into the Blockcore platform in 2025.
+- Support for hardware wallets and multi-signature wallets in 2025.
+
+Resources:
+- Funding through a combination of coin sales, venture capital, and grants.
+- Recruiting and retaining talented developers and engineers.
+- Building partnerships with other blockchain projects and businesses.
+- Collaborating with universities and research institutions to advance the technology.
 
 # **Team:**
 
