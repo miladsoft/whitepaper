@@ -80,8 +80,13 @@ Blockcore's blockchain architecture is designed to be modular and flexible, allo
 
 ### What is POS vs POW
 
-Proof Of Stake is an alternative way to achieve consensus to Proof Of Work, the difference with POS is that block producers use ownership of coins as the right to produce blocks and participating nodes can verify such claims by validating cryptographic signatures and the chain history.
-A good comparison is that POW uses CPU cycles as measurement while POS uses units of coins.
+Proof of Work (PoW) and Proof of Stake (PoS) are two consensus algorithms used in blockchain networks to validate transactions and create new blocks.
+
+Proof of Work is the original consensus algorithm used in Bitcoin, where miners compete to solve complex mathematical puzzles using computational power. The first miner to solve the puzzle gets to add a new block to the blockchain and receives a reward in the form of newly created bitcoins. PoW is designed to be resource-intensive and is often criticized for its energy consumption.
+
+Proof of Stake, on the other hand, is a newer consensus algorithm that is less resource-intensive than PoW. In PoS, validators (sometimes called "forgers" or "block producers") are selected to create new blocks based on the amount of cryptocurrency they hold and "stake" as collateral. Validators put up their own cryptocurrency as a guarantee that they will act honestly, and if they act maliciously, their stake can be taken away. Validators are rewarded with transaction fees instead of block rewards.
+
+Overall, the main difference between PoW and PoS is the way in which new blocks are created and validated. PoW relies on computational power, while PoS relies on ownership and stake in the network.
 
 ### Definitions and explanations:
 
