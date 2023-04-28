@@ -38,7 +38,7 @@ Blockcore is an ecosystem composed of different parts, with blockchain node soft
 ![image](https://user-images.githubusercontent.com/6504337/234680656-7bbd9b24-c16a-4035-bca4-6c8c0c826637.png)
 
 
-This software is used to run a UTXO-based blockchain, similar to Bitcoin, with added support for Proof-of-Stake, and it also supports Proof-of-Work blockchains. Each node has the full data of the blockchain, which normally does not contain much additional data other than limited OP_RETURN data, and nodes are not exposed to public consumption.
+This software is used to run a UTXO-based blockchain with Bitcoins Script language, similar to Bitcoin, with added support for Proof-of-Stake, and it also supports Proof-of-Work blockchains. Each node has the full data of the blockchain, which normally does not contain much additional data other than limited OP_RETURN data, and nodes are not exposed to public consumption.
 
 The indexer is responsible for building a queryable database of the history of the blockchain, for specific addresses, transactions, and blocks. On top of the indexer, Blockcore has built various user interface surfaces, such as the explorer, which allows insight into the blockchain, including rich lists, network nodes, known public addresses, and more.
 
